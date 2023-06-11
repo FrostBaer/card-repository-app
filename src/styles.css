@@ -1,0 +1,27 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+  }
+
+  .form-group label{
+      color: gray;
+  }
+
+  .form-group input{
+    font-weight: 500;
+  }
+
+  thead th{
+      font-weight: 400;
+  }
+
+  table tbody tr:hover{
+      background-color: #fffbf2;
+      cursor: pointer;
+  }
+
+  input.invalid{
+      border-color: crimson;
+  }
